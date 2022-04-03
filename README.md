@@ -26,6 +26,7 @@ Download [Vagrant](https://www.vagrantup.com/)
 
 Then all you have to do is clone this repo and invoke vagrant:
 
+
 ```bash
     git clone https://github.com/nyu-devops/lab-github-actions.git
     cd lab-github-actions
